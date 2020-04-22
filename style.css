@@ -13,5 +13,6 @@
 .show-box {
   border: 1px solid #cccccc;
   width: auto;
-  height: 200px;
+  height: 150px;
+  width: 150px;
 }
